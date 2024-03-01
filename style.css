@@ -1,7 +1,11 @@
 .cabeçalho{
+
 background-color: #216544;
+
 color: black;
+
 display: flex;
+
 justify-content:space-around ;
 
 
@@ -12,3 +16,8 @@ justify-content:space-around ;
 
 }
 
+.item-da-lista{
+
+display: inline-block;
+
+}
