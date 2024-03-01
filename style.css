@@ -1,6 +1,7 @@
-header{
+.cabeçalho{
 background-color: #216544;
 color: black;
+display: flex;
 
 }
 
@@ -8,3 +9,4 @@ color: black;
  width: 5%
 
 }
+
