@@ -20,13 +20,9 @@ justify-content:space-around ;
 .item-da-lista{
 
 display: inline-block;
+
 margin: 0 16px;
 
+color: #609040;
 }
 
-.habilidades{
-
-color: #209966;
-
-
-}
