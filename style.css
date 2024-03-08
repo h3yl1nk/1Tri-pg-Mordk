@@ -28,7 +28,7 @@ justify-content:space-around ;
 
 .item-da-lista{
 
-display: inline;
+display: inline-flex;
 
 margin: 0 16px;
 
