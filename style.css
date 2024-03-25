@@ -48,6 +48,13 @@ font-size: 20px;
 
 }
 
+.nomechamp{
+    text-align: center;
+    
+    color: white;
+    
+    }
+
 .img-fundo{
 height: 100%;
 width: 100%;
@@ -55,10 +62,3 @@ width: 100%;
 
 }
 
-
-.nomechamp{
-text-align: center;
-
-color: white;
-
-}
