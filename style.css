@@ -58,7 +58,7 @@ position: relative;
 .nomechamp{
     text-align: top;
     color: white;
-    right: 300px;
-    bottom: 550px;
+    right: 50%;
+    bottom: 50%;
     position: absolute;
     }
