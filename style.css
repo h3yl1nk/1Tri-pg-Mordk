@@ -55,10 +55,17 @@ position: relative;
 
 }
 
-.nomechamp{
-    text-align: top;
+.nomechamp1{
     color: white;
     right: 50%;
     bottom: 70%;
     position: absolute;
     }
+
+    .nomechamp1{
+        color: white;
+        right: 50%;
+        bottom: 60%;
+        position: absolute;
+        }
+    
