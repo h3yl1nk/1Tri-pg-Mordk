@@ -128,18 +128,22 @@ position: relative;
                  /*                 CONTEÚDO ADICIONAL                                          */
 
 
-        button {
-            color: #212121;
-            z-index: 1;
-            background: #e8e8e8;
+                 button {
+             padding: 15px 25px;
+             right: 20px;
+            left:20px;
+             bottom:90%;
+             color: #212121;
+             z-index: 1;
+             background: #e8e8e8;
             position: absolute;
-            font-weight: 1000;
+             font-weight: 1000;
             font-size: 17px;
             -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
-            box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
-            transition: all 250ms;
-            overflow: hidden;
-           }
+             box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+             transition: all 250ms;
+             overflow: hidden;
+                   }
            
            button::before {
             content: "";
