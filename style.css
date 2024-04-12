@@ -60,6 +60,7 @@ position: relative;
     right: 50%;
     bottom: 35%;
     position: absolute;
+    size: 10px;
     }
 
     .nomechamp2{
@@ -67,6 +68,7 @@ position: relative;
         right: 50%;
         bottom: 33%;
         position: absolute;
+        size: 5px;
         }
 
 
