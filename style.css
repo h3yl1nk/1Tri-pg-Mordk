@@ -1,7 +1,5 @@
 body{
-background-color: #001410;
-background-image: radial-gradient(bottom);
-
+background-image: radial-gradient(to top, black, green);
 }
 
 *{
